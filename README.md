@@ -1,16 +1,12 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Meu Cabelo Minha Coroa ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Livro sobre empoderamento Negro
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+ChatGpt, Gamma e canva imagem gerada com ia
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Fiz um comando no Chatgpt para criar uma lista de títulos de livros para o empoderamento negro e antiracista. Após pedi para criar uma estrutura de livro. Salvei em word e subi para o gama me auxiliar no design
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+O livro ficou apto para venda na internet
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Estou muito feliz com o resultado e estou a cada dia aprimorando minhas abilidades e ponto forte de ideação e desenvolvimento. Segue link do projeto: https://gamma.app/docs/A-Historia-de-uma-Rainha-Negra-Uma-Jornada-de-Autoestima-e-Aceita-4x3wzsed1bdy15g
